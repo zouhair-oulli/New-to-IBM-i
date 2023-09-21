@@ -10,7 +10,7 @@
 ## English
 - [IBM documentation](https://www.ibm.com/docs/en/i) (ex. IBM Knowledge Center)
 - [IBM i book](https://barrettotte.github.io/IBMi-Book) - Barrett Otte
-- [PUB400](https://pub400.com/) - Holger Scherer
+- [Public IBM i 7.5 for everyone (PUB400)](https://pub400.com/) - Holger Scherer
 - [IBM TechXchange Community](https://community.ibm.com/community/user/power/home) / [Groups](https://community.ibm.com/community/user/sitemap)
 - [SQL for IBM i](https://www.ibm.com/support/pages/ibm-i-tutorials-demos-and-sql-examples-0) - Scott Forstie & Tim Rowe
 - [RPGPGM](https://www.rpgpgm.com/) - Simon Hutchinson
