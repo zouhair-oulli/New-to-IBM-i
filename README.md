@@ -24,6 +24,8 @@
 - [Common Europe](https://comeur.org/)
 - [ALL400s](https://all400s.com/) - John Rockwell
 - [IBM i reference pages](https://ibmireference.blogspot.com/) - Michael D. Mayer
+- [Faq400 english blog](https://blog.faq400.com/en/)
+- [IT Jungle](https://www.itjungle.com/)
 
 ### Videos
 - [AS400 and SQL Tricks](https://www.youtube.com/@AS400andSQLTricks)
