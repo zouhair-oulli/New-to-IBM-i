@@ -26,6 +26,7 @@
 - [IBM i reference pages](https://ibmireference.blogspot.com/) - Michael D. Mayer
 
 ### Videos
+- [Power Systems VUG](https://www.youtube.com/@PowerSystemsVUG)
 - [AS400 and SQL Tricks](https://www.youtube.com/@AS400andSQLTricks)
 - [RowtonIT](https://www.youtube.com/@rowtonit) - Steve Bradshaw
 - [FormaServe](https://www.youtube.com/@FormaServe) - Andy Youens
