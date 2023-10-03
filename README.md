@@ -13,11 +13,13 @@
 - [Public IBM i 7.5 for everyone (PUB400)](https://pub400.com/) - Holger Scherer
 - [IBM TechXchange Community](https://community.ibm.com/community/user/power/home) / [Groups](https://community.ibm.com/community/user/sitemap)
 - [SQL for IBM i](https://www.ibm.com/support/pages/ibm-i-tutorials-demos-and-sql-examples-0) - Scott Forstie & Tim Rowe
+- [Faq400 Blog](https://blog.faq400.com/en/)
 - [RPGPGM](https://www.rpgpgm.com/) - Simon Hutchinson
 - [Nick Litten's blog](https://www.nicklitten.com/blog/)
 - [PowerWire](https://powerwire.eu/)
 - [Seiden Group](https://www.seidengroup.com/open-source-documentation/) (Open source on IBM i) / [Blog](https://www.seidengroup.com/blog/)
 - [Build on Power's newsletter](https://builtonpower.com/newsletters/) - Torbjörn Appehl
+- [IT Jungle](https://www.itjungle.com/)
 - [TechChannel](https://techchannel.com/IBM-I)
 - [reddit](https://www.reddit.com/r/IBMi/)
 - [Common US](https://www.common.org/home)
