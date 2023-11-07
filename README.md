@@ -81,6 +81,8 @@
 - [Build on Power newsletter](https://builtonpower.com/newsletters/) - Torbjörn Appehl
 <img height="100" src="images/Build on Power.jpg">
 
+[behind the scenes](https://www.youtube.com/watch?v=2HBXWS8f0KE)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - [TechChannel](https://techchannel.com/IBM-I)
