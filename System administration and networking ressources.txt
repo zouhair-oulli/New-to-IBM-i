@@ -1,1 +1,6 @@
-
+- [NetworkChuck](https://www.youtube.com/@NetworkChuck)
+- [Chris Titus Tech](https://www.youtube.com/@ChrisTitusTech)
+- [Numétopia](https://www.numetopia.fr/)
+- [Xavki](https://www.youtube.com/c/xavki-linux)
+- [Christophe Casalegno](https://www.youtube.com/@ChristopheCasalegno)
+- [WSL(Windows Subsystem for Linux)](https://learn.microsoft.com/en-us/windows/wsl/)
