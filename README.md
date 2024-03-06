@@ -1,6 +1,6 @@
 <p>Hello😀</p> 
 <p>As a junior IBM i System Administrator, I have compiled a list of resources that I find helpful for learning and expanding my knowledge about the world of Power and IBM i. I am grateful to everyone on this list and to the people behind the work that they share with others. I hope this list is helpful to you as well.</p>
-<p>ps: In case, you would like to suggest me adding a new resource, please create a new issue or text me. I don't want to murge a forked repository. Thank you</p>
+<p>ps: In case, you would like to suggest me adding a new resource, please don't create a pull request, instead, you can create a new issue or text me, and I will update the readme file. Thank you</p>
 
 <a href="https://www.ibm.com/power"><img height="150" src="images/Power.jpg"></a>
 <a href="https://www.ibm.com/products/power-e1080"><img height="150" src="images/Power10.png"></a>
