@@ -1,5 +1,5 @@
-**IMPORTANT : this respository is now archived, the content will be shared on this page [Resources for learning IBM i](https://www.notion.so/zouhair-oulli/Resources-for-learning-IBM-i-8b0960acb5304e6b9b8d023ea6ebb760)**
-<p>Hello😀</p> 
+**IMPORTANT : New content will be shared on this page [Resources for learning IBM i](https://www.notion.so/zouhair-oulli/Resources-for-learning-IBM-i-8b0960acb5304e6b9b8d023ea6ebb760). If you would like to suggest a new resource to be added, you can create an ISSUE on this repository (please don't fork and pull request), or you can send me a message through LinkedIn**
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p>As a junior IBM i System Administrator, I have compiled a list of resources that I find helpful for learning and expanding my knowledge about the world of Power and IBM i. I am grateful to everyone on this list and to the people behind the work that they share with others. I hope this list is helpful to you as well.</p>
 <p>ps: In case, you would like to suggest me adding a new resource, please don't create a pull request, instead, you can create a new issue or text me, and I will update the readme file. Thank you</p>
 
